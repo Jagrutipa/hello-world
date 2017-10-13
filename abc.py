@@ -1,5 +1,5 @@
 
-l=[]
+l=[] this is the list declaration
 c=0
 while c<10:
     n=int(input("enter no.:"))
